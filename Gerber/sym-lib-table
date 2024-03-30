@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Raspbarry_Pi_PicoW")(type "KiCad")(uri "${KIPRJMOD}/Raspbarry_Pi_PicoW.kicad_sym")(options "")(descr ""))
+)
